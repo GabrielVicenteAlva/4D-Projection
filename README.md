@@ -2,6 +2,8 @@
 
 Program for visualizing 4D polytopes using the pinhole camera method.
 
+Video examples: https://github.com/GabrielVicenteAlva/4D-Visualization/tree/main/Videos
+
 ## Requirements:
 
 - OpenGL
